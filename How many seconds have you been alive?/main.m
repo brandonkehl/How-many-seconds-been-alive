@@ -3,7 +3,7 @@
 //  How many seconds have you been alive?
 //
 //  Created by brandon kehl on 9/29/15.
-//  Copyright (c) 2015 bignerdranch. All rights reserved.
+//  Copyright (c) 2015 brandonkehl. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
